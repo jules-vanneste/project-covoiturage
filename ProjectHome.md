@@ -1,0 +1,1 @@
+L'augmentation du prix du carburant fait que l'utilisation du véhicule personnel devient de plus en plus coûteuse. On se propose dans le cadre du projet de synthèse de développer un site web de covoiturage pour les personnes de l'IUT (étudiants, enseignants, personnel BIATOS, ...).
